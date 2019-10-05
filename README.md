@@ -27,7 +27,7 @@ run_namer_cnn.py -  This script evaluates all of the patches for a given
 train_namer_cnn.py- This script is provided as an example of how the
                     CNN was constructed and trained. The training data is 
                     not provided to run this script to save on space, but
-                    can be shared by emailing mhaskell@fas.harvard.edu.
+                    can be shared by emailing mhask@umich.edu.
 
 
 
